@@ -4,6 +4,7 @@ public static void main(String args[])
 {
 int a=8,hcf=0;
 int b=10;
+int x,y,z;
 for(int i=1;i<=b;i++)
 {
 
