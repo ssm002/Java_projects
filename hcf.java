@@ -14,6 +14,6 @@ hcf=i;
 }
 }
 
-System.out.println(hcf);
+System.out.println("The hcf is..."+hcf);
 }
 }
