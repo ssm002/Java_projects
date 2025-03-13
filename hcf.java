@@ -2,6 +2,7 @@ class hcf
 {
 public static void main(String args[])
 {
+  //AAAAAAAA
 int a=8,hcf=0;
 int b=10;
 int x,y,z;
